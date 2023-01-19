@@ -124,7 +124,7 @@ function Studio() {
                         </div>
                     </div>
 
-                    <div data-aos="fade-left">
+                    <div data-aos="zoom-in">
                         <p className='text-3xl md:mt-0 mt-8 md:block hidden'>
                             We are eager to learn about <br />
                             your organisation and to help <br />
